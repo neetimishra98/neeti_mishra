@@ -13,7 +13,7 @@
 📍 Dallas, TX | 🎓 MS in Business Analytics & AI, UT Dallas (May 2025)  
 📩 [neeti.mishra2011@gmail.com](mailto:neeti.mishra2011@gmail.com) • [LinkedIn](https://linkedin.com/in/neeti-mishra)
 
-I thrive at the intersection of data and product. With 3+ years of experience across analytics, product delivery, and automation, I help teams make better decisions, faster. From creating ETL pipelines and building BI dashboards to defining MVPs and prioritizing user stories—I bring both an analytical and strategic lens to every challenge.
+I thrive at the intersection of data and product. With 3+ years of experience across analytics, product delivery, and automation, I help teams make better decisions, faster. From creating ETL pipelines and building BI dashboards to defining MVPs and prioritizing user stories, I bring both an analytical and strategic lens to every challenge.
 
 - 💼 Previously @ Capgemini (Product Analyst, Data Analyst) & Digital Projekt  
 - 🌐 Passionate about user empathy, cross-functional collaboration, and continuous iteration  
@@ -132,7 +132,7 @@ Defined product vision for **SkillX**, an AI-based personalized learning solutio
 
 📧 [neeti.mishra2011@gmail.com](mailto:neeti.mishra2011@gmail.com)  
 🔗 [linkedin.com/in/neeti-mishra](https://linkedin.com/in/neeti-mishra)  
-💻 [github.com/YOUR-GITHUB-USERNAME](https://github.com/neetimishra98)
+💻 [github.com/neetimishra98](https://github.com/neetimishra98)
 
 ---
 
