@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I'm Neeti Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=007ACC&center=true&width=435&lines=Data+%7C+Business+%7C+Product+Analyst+%7C+;Empowering+Decisions+with+Data+%26+Strategy;Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Agile+Product+Mindset+%7C+Data+Automation+%7C+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=007ACC&center=true&width=700&lines=Data+Analyst+%7C+Business+Analyst+%7C+Product+Strategist;Driven+by+Data+%7C+Empowered+by+Strategy;Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Agile+Mindset+%7C+MVP+Thinking+%7C+Growth+Driven" />
 </p>
+
 
 ---
 
