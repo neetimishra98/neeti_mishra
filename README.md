@@ -22,7 +22,7 @@ I thrive at the intersection of data and product. With 3+ years of experience ac
 
 ## 🧠 Leadership & Mentorship
 
-### 🎓 **Graduate Teaching Assistant | UT Dallas (2024 – Present)**
+### 🎓 **Graduate Teaching Assistant | UT Dallas**
 - Mentored **130+ students** on resume writing, LinkedIn branding, and interview prep—leading to a **20% boost** in job placement outcomes  
 - Organized and led interactive workshops on career strategy, increasing engagement scores by **45%**  
 - Guided project-based learning initiatives across career prep & analytics  
