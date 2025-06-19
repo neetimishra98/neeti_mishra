@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Neeti Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=007ACC&center=true&width=435&lines=Data+%7C+Business+%7C+Product+Analyst;+Empowering+Decisions+with+Data+%26+Strategy;Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Agile+Product+Mindset+%7C+Data+Automation+%7C+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=007ACC&center=true&width=435&lines=Data+%7C+Business+%7C+Product+Analyst+%7C+;Empowering+Decisions+with+Data+%26+Strategy;Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Agile+Product+Mindset+%7C+Data+Automation+%7C+Growth" />
 </p>
 
 ---
@@ -57,17 +57,17 @@ I thrive at the intersection of data and product. With 3+ years of experience ac
 
 ## 📈 Projects
 
-### 🤖 Applied Machine Learning: Instacart Reorder Prediction (Dec 2024)  
+### 🤖 Applied Machine Learning: Instacart Reorder Prediction  
 Designed and implemented machine learning models on **3M+ transactions** from 200K+ users to predict reorder behavior, streamlining the online grocery experience.  
 - Optimized a **Gradient Boosting model** with 86% accuracy and 0.85 ROC-AUC  
 - Enabled personalized recommendations that reduced missed purchases, improved cart completion, and unlocked a **10% revenue growth** opportunity  
 
-### 📊 Predictive Analytics with SAS: Conagra Dataset Analysis (May 2024)  
+### 📊 Predictive Analytics with SAS: Conagra Dataset Analysis  
 Analyzed **500K+ sales records** to uncover purchasing trends and optimize demand forecasting for a leading CPG brand.  
 - Built **time-series models** for 2022–2023 that improved demand accuracy and reduced inventory waste  
 - Supported strategic sales planning and contributed to a **15% increase** in operational efficiency  
 
-### 🗃️ Business Analytics & Database Systems: Event Management Platform (Dec 2023)  
+### 🗃️ Business Analytics & Database Systems: Event Management Platform  
 Structured and deployed a MySQL-based scalable platform to streamline event organization.  
 - Enhanced database retrieval speed by **45%** and optimized storage efficiency  
 - Implemented data validation techniques to reduce scheduling errors by **30%**, improving overall system reliability  
