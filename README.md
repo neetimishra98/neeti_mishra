@@ -107,7 +107,7 @@ Defined product vision for **SkillX**, an AI-based personalized learning solutio
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge)
 ![Productboard](https://img.shields.io/badge/Productboard-F2F4F7?style=for-the-badge&logo=producthunt&logoColor=black)
 
 ### ☁️ Cloud & DevOps  
