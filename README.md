@@ -132,7 +132,7 @@ Defined product vision for **SkillX**, an AI-based personalized learning solutio
 
 📧 [neeti.mishra2011@gmail.com](mailto:neeti.mishra2011@gmail.com)  
 🔗 [linkedin.com/in/neeti-mishra](https://linkedin.com/in/neeti-mishra)  
-💻 [github.com/YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
+💻 [github.com/YOUR-GITHUB-USERNAME](https://github.com/neetimishra98)
 
 ---
 
