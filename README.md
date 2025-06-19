@@ -27,10 +27,11 @@ I thrive at the intersection of data and product. With 3+ years of experience ac
 - Organized and led interactive workshops on career strategy, increasing engagement scores by **45%**  
 - Guided project-based learning initiatives across career prep & analytics  
 
-### 🤝 **Cross-Functional Product Collaboration**
-- Worked with **engineering, QA, design, and stakeholders** to translate vision into feature requirements  
-- Practiced Agile Scrum, participated in sprint planning, backlog grooming, and MVP scoping  
-- Ensured delivery of features that met both **user needs** and **business KPIs**
+### 🌟 Product Management Club Leadership & Mentorship
+- Led strategic planning, communications, and event logistics to enhance overall club performance and member engagement  
+- Mentored **100+ aspiring Product Managers** through a structured success program with resources and career guidance  
+- Built and maintained a thriving network of **50+ PM mentors** and industry experts to support community growth  
+- Boosted visibility through targeted outreach, public relations efforts, and feedback-driven improvements  
 
 ---
 
